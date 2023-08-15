@@ -14,11 +14,8 @@ tasks:
       rm Mambaforge-$(uname)-$(uname -m).sh
       /workspace/mambaforge/bin/mamba init bash
       source ${HOME}/.bashrc
-      mamba create -n course -c bioconda \
-        treerecs cafe muscle trimal raxml -y
+      mamba env create -f envs/course.yaml
       mamba clean --all -y
     command: |
       mamba activate course
-      reset
       pwd
-      mamba env list
