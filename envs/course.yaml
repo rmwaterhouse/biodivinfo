@@ -3,6 +3,7 @@ channels :
     - conda-forge
     - bioconda
 dependencies :
+    - busco == 5.5.0
     - cafe == 5.0.0
     - mafft == 7.520
     - raxml == 8.2.12
