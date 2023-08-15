@@ -1,11 +1,24 @@
+# gitpod configuration file for 2023 SIB course on Biodiversity bioinformatics
+
+# Base docker image to create the workspace
+# Runs on Ubuntu 22.04
 image: gitpod/workspace-base
 
-# List the start up tasks. Learn more: https://www.gitpod.io/docs/configure/workspaces/tasks
+# List start up tasks
 tasks:
-  - name: Script Task
-    init: echo 'init script' # runs during prebuild => https://www.gitpod.io/docs/configure/projects/prebuilds
-    command: echo 'start script'
-
-# List the ports to expose. Learn more: https://www.gitpod.io/docs/configure/workspaces/ports
-
-# Learn more from ready-to-use templates: https://www.gitpod.io/docs/introduction/getting-started/quickstart
+  - name: computing terminal
+    # Install mamba and create computing environment
+    init: |
+      curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+      bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/mambaforge
+      rm Mambaforge-$(uname)-$(uname -m).sh
+      /workspace/mambaforge/bin/mamba init bash
+      source ${HOME}/.bashrc
+      mamba create -n course -c bioconda \
+        treerecs cafe muscle trimal raxml -y
+      mamba clean --all -y
+    command: |
+      mamba activate course
+      reset
+      pwd
+      mamba env list
