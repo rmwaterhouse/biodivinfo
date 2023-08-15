@@ -1,0 +1,10 @@
+name : course
+channels :
+    - conda-forge
+    - bioconda
+dependencies :
+    - cafe == 5.0.0
+    - muscle == 5.1.0
+    - raxml == 8.2.12
+    - treerecs == 1.2
+    - trimal == 1.4.1
