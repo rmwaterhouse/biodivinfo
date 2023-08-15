@@ -4,7 +4,7 @@ channels :
     - bioconda
 dependencies :
     - cafe == 5.0.0
-    - muscle == 5.1.0
+    - mafft == 7.520
     - raxml == 8.2.12
     - treerecs == 1.2
     - trimal == 1.4.1
