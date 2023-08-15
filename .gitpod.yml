@@ -17,5 +17,7 @@ tasks:
       mamba env create -f envs/course.yaml
       mamba clean --all -y
     command: |
+      /workspace/mambaforge/bin/mamba init bash
+      source ~/.bashrc
       mamba activate course
-      pwd
+
