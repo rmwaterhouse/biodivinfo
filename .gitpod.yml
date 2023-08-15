@@ -20,4 +20,5 @@ tasks:
       /workspace/mambaforge/bin/mamba init bash
       source ~/.bashrc
       mamba activate course
+      reset
 
