@@ -7,5 +7,6 @@ dependencies :
     - cafe == 5.0.0
     - mafft == 7.520
     - raxml == 8.2.12
+    - r-ape == 5.7
     - treerecs == 1.2
     - trimal == 1.4.1
