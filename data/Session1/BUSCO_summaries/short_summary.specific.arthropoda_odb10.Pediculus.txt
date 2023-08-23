@@ -1,0 +1,18 @@
+# BUSCO version is: 5.5.0 
+# The lineage dataset is: arthropoda_odb10 (Creation date: 2020-09-10, number of genomes: 90, number of BUSCOs: 1013)
+# Summarized benchmarking in BUSCO notation for file /workspace/biodivinfo/Session1/ncbi_dataset/data/GCF_000006295.1/protein.faa
+# BUSCO was run in mode: proteins
+
+	***** Results: *****
+
+	C:96.7%[S:96.4%,D:0.3%],F:2.5%,M:0.8%,n:1013	   
+	980	Complete BUSCOs (C)			   
+	977	Complete and single-copy BUSCOs (S)	   
+	3	Complete and duplicated BUSCOs (D)	   
+	25	Fragmented BUSCOs (F)			   
+	8	Missing BUSCOs (M)			   
+	1013	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	busco: 5.5.0
