@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="1610px" height="1785px" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<polygon points="50,250 50,550 160,550 160,875 270,875 270,1150 465,1150 465,1275 630,1275 630,1525 795,1525 795,1625 905,1625 905,1725 1015,1725 1015,1775 1125,1775 1185,1775 1185,1725 1125,1725 1075,1725 1075,1725 1075,1675 1075,1675 1125,1675 1185,1675 1185,1625 1125,1625 1015,1625 1015,1675 965,1675 965,1625 965,1575 965,1575 1015,1575 1185,1575 1185,1525 1015,1525 905,1525 905,1575 855,1575 855,1525 855,1475 855,1375 905,1375 905,1475 1015,1475 1185,1475 1185,1375 1015,1375 965,1375 965,1375 965,1325 965,1325 1015,1325 1185,1325 1185,1275 1015,1275 905,1275 905,1325 795,1325 795,1475 720,1475 720,1275 720,1200 720,1200 795,1200 1185,1200 1185,1150 795,1150 630,1150 630,1200 555,1200 555,1150 555,1075 555,1000 630,1000 630,1075 795,1075 1185,1075 1185,1000 795,1000 720,1000 720,1000 720,925 720,925 795,925 1185,925 1185,875 795,875 630,875 630,925 465,925 465,1075 390,1075 390,875 390,800 390,725 465,725 465,800 715,800 1185,800 1185,725 715,725 615,725 615,725 615,625 615,625 715,625 1185,625 1185,550 715,550 465,550 465,625 270,625 270,800 220,800 220,550 220,500 220,450 270,450 270,500 380,500 1185,500 1185,450 380,450 330,450 330,450 330,400 330,350 380,350 380,400 490,400 1185,400 1185,350 490,350 440,350 440,350 440,300 440,300 490,300 1185,300 1185,250 490,250 380,250 380,300 270,300 270,400 160,400 160,500 110,500 110,250 110,200 110,150 160,150 160,200 270,200 1185,200 1185,150 270,150 220,150 220,150 220,100 220,100 270,100 1185,100 1185,50 270,50 160,50 160,100 50,100 50,200 " fill="rgb(255,255,255)" stroke-width="10" stroke="rgb(120,120,120)" />
+	<text x="821" y="1707" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >50390_0_Diabrotica_virgifera</text>
+	<text x="769" y="1607" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >7539_0_Leptinotarsa_decemlineata</text>
+	<text x="756" y="1507" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >217634_0_Anoplophora_glabripennis</text>
+	<text x="873" y="1357" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >7048_0_Sitophilus_oryzae</text>
+	<text x="782" y="1257" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >77166_0_Dendroctonus_ponderosae</text>
+	<text x="886" y="1132" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >116153_0_Aethina_tumida</text>
+	<text x="847" y="982" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >115357_0_Harmonia_axyridis</text>
+	<text x="756" y="857" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >41139_0_Coccinella_septempunctata</text>
+	<text x="873" y="707" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >41895_0_Tribolium_madens</text>
+	<text x="847" y="532" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >7070_0_Tribolium_castaneum</text>
+	<text x="756" y="432" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >110193_0_Nicrophorus_vespilloides</text>
+	<text x="821" y="332" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >1629725_0_Oryctes_borbonicus</text>
+	<text x="834" y="232" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >166361_0_Onthophagus_taurus</text>
+	<text x="821" y="132" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >224129_0_Agrilus_planipennis</text>
+	<text x="886" y="32" fill="rgb(0,0,0)" font-size="24" font-family="Verdana" >7054_0_Photinus_pyralis</text>
+	<line x1="80" y1="225" x2="80" y2="125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="80" y1="125" x2="190" y2="125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="125" x2="190" y2="175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="175" x2="1185" y2="175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="175" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >224129_0_0001a9</text>
+	<line x1="190" y1="125" x2="190" y2="75" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="75" x2="1185" y2="75" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="75" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7054_0_0020da</text>
+	<line x1="80" y1="225" x2="80" y2="525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="80" y1="525" x2="190" y2="525" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="525" x2="190" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="850" x2="300" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="850" x2="300" y2="825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="825" x2="330" y2="825" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="825" x2="330" y2="675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="675" x2="495" y2="675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="675" x2="495" y2="650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="650" x2="525" y2="650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="650" x2="525" y2="575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="575" x2="1185" y2="575" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="575" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7070_0_002d40</text>
+	<line x1="525" y1="650" x2="525" y2="750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="750" x2="1185" y2="750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="750" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >41895_0_001c4d</text>
+	<line x1="495" y1="675" x2="495" y2="675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="675" x2="555" y2="675" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="555" y1="675" x2="555" y2="775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="555" y1="775" x2="1185" y2="775" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="775" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >41895_0_001d86</text>
+	<line x1="555" y1="675" x2="555" y2="600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="555" y1="600" x2="1185" y2="600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="600" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7070_0_002db6</text>
+	<rect x="482.5" y="662.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="825" x2="330" y2="1100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="330" y1="1100" x2="495" y2="1100" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="1100" x2="495" y2="1225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="1225" x2="660" y2="1225" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="1225" x2="660" y2="1175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="1175" x2="1185" y2="1175" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1175" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >116153_0_001171</text>
+	<line x1="660" y1="1225" x2="660" y2="1500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="660" y1="1500" x2="825" y2="1500" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1500" x2="825" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1600" x2="935" y2="1600" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1600" x2="935" y2="1550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1550" x2="1185" y2="1550" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1550" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >217634_0_0027ac</text>
+	<line x1="935" y1="1600" x2="935" y2="1700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1700" x2="1045" y2="1700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1700" x2="1045" y2="1750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1750" x2="1185" y2="1750" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1750" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >50390_0_00063e</text>
+	<line x1="1045" y1="1700" x2="1045" y2="1650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1650" x2="1185" y2="1650" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1650" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7539_0_0024c4</text>
+	<line x1="825" y1="1500" x2="825" y2="1350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1350" x2="935" y2="1350" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1350" x2="935" y2="1450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1450" x2="1045" y2="1450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1450" x2="1045" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1425" x2="1075" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1075" y1="1425" x2="1075" y2="1400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1075" y1="1400" x2="1185" y2="1400" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1400" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7048_0_0001a0</text>
+	<line x1="1075" y1="1425" x2="1075" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1075" y1="1425" x2="1185" y2="1425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1425" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7048_0_00018b</text>
+	<rect x="1062.5" y="1412.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1450" x2="1045" y2="1450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="1045" y1="1450" x2="1185" y2="1450" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1450" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >7048_0_002551</text>
+	<rect x="1032.5" y="1437.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1350" x2="935" y2="1300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="935" y1="1300" x2="1185" y2="1300" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1300" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >77166_0_002957</text>
+	<line x1="495" y1="1100" x2="495" y2="950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="495" y1="950" x2="660" y2="950" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="672.5" y1="937.5" x2="647.5" y2="962.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="672.5" y1="962.5" x2="647.5" y2="937.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="850" x2="300" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="850" x2="360" y2="850" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="360" y1="850" x2="360" y2="1125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="360" y1="1125" x2="525" y2="1125" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="1125" x2="525" y2="975" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="975" x2="690" y2="975" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="690" y1="975" x2="690" y2="900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="690" y1="900" x2="1185" y2="900" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="900" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >41139_0_0030ac</text>
+	<line x1="690" y1="975" x2="690" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="690" y1="1050" x2="825" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1050" x2="825" y2="1025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1025" x2="1185" y2="1025" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1025" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >115357_0_000a81</text>
+	<line x1="825" y1="1050" x2="825" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="825" y1="1050" x2="1185" y2="1050" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="1050" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >115357_0_00054b</text>
+	<rect x="812.5" y="1037.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="1125" x2="525" y2="1250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="525" y1="1250" x2="690" y2="1250" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="702.5" y1="1237.5" x2="677.5" y2="1262.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="702.5" y1="1262.5" x2="677.5" y2="1237.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="360" y1="850" x2="360" y2="700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="360" y1="700" x2="585" y2="700" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="597.5" y1="687.5" x2="572.5" y2="712.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="597.5" y1="712.5" x2="572.5" y2="687.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<rect x="287.5" y="837.5" width="25" height="25" fill="rgb(65,170,190)" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="525" x2="190" y2="425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="190" y1="425" x2="300" y2="425" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="425" x2="300" y2="475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="475" x2="1185" y2="475" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="475" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >110193_0_0003c3</text>
+	<line x1="300" y1="425" x2="300" y2="325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="300" y1="325" x2="410" y2="325" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="410" y1="325" x2="410" y2="275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="410" y1="275" x2="1185" y2="275" stroke-width="3" stroke="rgb(65,170,190)" />
+	<text x="1210" y="275" fill="rgb(65,170,190)" font-size="18" font-family="Verdana" >166361_0_001d7e</text>
+	<line x1="410" y1="325" x2="410" y2="375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="410" y1="375" x2="520" y2="375" stroke-width="3" stroke="rgb(65,170,190)" />
+	<line x1="532.5" y1="362.5" x2="507.5" y2="387.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<line x1="532.5" y1="387.5" x2="507.5" y2="362.5" stroke-width="8.33333" stroke="rgb(65,170,190)" />
+	<polygon points="95.625,225 86.3204,220.408 84.8284,210.14 77.5858,217.57 67.3591,215.816 72.1875,225 67.3591,234.184 77.5858,232.43 84.8284,239.86 86.3204,229.592 95.625,225 " fill="rgb(255,255,255)" stroke-width="6.25" stroke="rgb(65,170,190)" />
+</svg>
