@@ -30,5 +30,6 @@ tasks:
       source ~/.bashrc
       mamba activate course
       export PATH="/workspace/biodivinfo/envs/CAFE5/bin:$PATH"
+      cd /workspace/biodivinfo/
       reset
 
