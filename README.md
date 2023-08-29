@@ -41,4 +41,4 @@ These links are provided for information only, they are not needed now for the p
 - Chronos function of the ape package in R --> 
 [Website/Userguide](https://rdrr.io/cran/ape/man/chronos.html); [Publication](https://www.sciencedirect.com/science/article/pii/S1055790313000651)
 - JalView: for multiple sequence alignment editing, visualisation and analysis --> 
-[Website] (https://www.jalview.org/); [Publication] (https://academic.oup.com/bioinformatics/article/25/9/1189/203460)
+[Website](https://www.jalview.org/); [Publication](https://academic.oup.com/bioinformatics/article/25/9/1189/203460)
