@@ -1,4 +1,4 @@
-# SIB course 2023 - Biodiversity bioinformatics
+# SIB course 2024 - Biodiversity bioinformatics
 
 _From large-scale phylogenomics to gene families and functions_
 
@@ -10,12 +10,12 @@ It aims to:
 - Show how to use BUSCO to assess genomics data quality
 - Show how to formulate comparative genomics questions, develop and apply approaches to address them (with a focus on using orthology data), and then critically interpret them
 
-This course is taught by Robert Waterhouse (UNIL and SIB), with the help of Giulia Campli (UNIL) and Antonin Thiébaut (UNIL).
+This course is taught by Robert Waterhouse (SIB).
 
 
 ## Practicals
 
-Once you have created a gitlab account and linked it to GitPod, you can open this repository with gitpod and start the practicals. You will find help on how to do so [here](https://www.gitpod.io/docs/introduction/getting-started#step-1-your-first-workspace).
+Once you have created a GitHub account and linked it to GitPod, you can open this repository with GitPod and start the practicals. You will find help on how to do so [here](https://www.gitpod.io/docs/introduction/getting-started#step-1-your-first-workspace).
 
 
 ## Software and Resources
