@@ -29,7 +29,7 @@ These links are provided for information only, they are not needed now for the p
 - MAFFT - multiple sequence alignment tool --> 
 [Website](https://mafft.cbrc.jp/alignment/software/); [Publication](https://academic.oup.com/mbe/article/30/4/772/1073398); [Userguide](https://mafft.cbrc.jp/alignment/software/manual/manual.html)
 - TrimAl - alignment filtering tool --> 
-[Website]([http://trimal.cgenomics.org/trimal](https://vicfero.github.io/trimal/)); [Publication](https://academic.oup.com/bioinformatics/article/25/15/1972/213148); [Userguide]([http://trimal.cgenomics.org/use_of_the_command_line_trimal_v1.2](https://vicfero.github.io/trimal/whatcanido.html))
+[Website](https://vicfero.github.io/trimal/); [Publication](https://academic.oup.com/bioinformatics/article/25/15/1972/213148); [Userguide](https://vicfero.github.io/trimal/whatcanido.html)
 - RAxML - maximum likelihood phylogenies --> 
 [Website](https://cme.h-its.org/exelixis/web/software/raxml/); [Publication](https://academic.oup.com/bioinformatics/article/22/21/2688/251208); [Userguide](https://cme.h-its.org/exelixis/resource/download/NewManual.pdf)
 - Treerecs - tree reconciliation software --> 
