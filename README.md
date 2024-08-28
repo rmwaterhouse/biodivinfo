@@ -13,6 +13,10 @@ It aims to:
 This course is taught by Robert Waterhouse (SIB).
 
 
+## Lectures
+
+All the lecture materials are provided here in thie [PDF](https://github.com/rmwaterhouse/biodivinfo/blob/main/SIB%20Biodiversity%20Bioinformatics%20DAY2.pdf).
+
 ## Practicals
 
 Once you have created a GitHub account and linked it to GitPod, you can open this repository with GitPod and start the practicals. You will find help on how to do so [here](https://www.gitpod.io/docs/introduction/getting-started#step-1-your-first-workspace).
