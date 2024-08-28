@@ -15,7 +15,7 @@ This course is taught by Robert Waterhouse (SIB).
 
 ## Lectures
 
-All the lecture materials are provided here in thie [PDF](https://github.com/rmwaterhouse/biodivinfo/blob/main/SIB%20Biodiversity%20Bioinformatics%20DAY2.pdf).
+All the lecture materials are provided here in this [PDF](https://github.com/rmwaterhouse/biodivinfo/blob/main/SIB%20Biodiversity%20Bioinformatics%20DAY2.pdf).
 
 ## Practicals
 
