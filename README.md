@@ -1,4 +1,4 @@
-# SIB course 2024 - Biodiversity bioinformatics
+# SIB course 2025 - Biodiversity bioinformatics
 
 _From large-scale phylogenomics to gene families and functions_
 
