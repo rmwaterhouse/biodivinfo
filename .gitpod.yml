@@ -1,25 +1,34 @@
 # gitpod configuration file for 2025 SIB course on Biodiversity bioinformatics
 
+image: gitpod/workspace-base
+
 tasks:
-  - name: biodivinfo
-    init: |
-      # Install Miniconda and Mamba
-      wget -q https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
-      bash miniconda.sh -b -p $HOME/miniconda
-      echo 'export PATH="$HOME/miniconda/bin:$PATH"' >> ~/.bashrc
-      source ~/.bashrc
+- name: install all software and download databases
+  init: |
+    curl -L -O "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
+    bash Miniforge3-$(uname)-$(uname -m).sh -b -p /workspace/conda && rm Miniforge3-$(uname)-$(uname -m).sh
+    /workspace/conda/bin/mamba shell init
+    source ${HOME}/.bashrc
+    cp ${HOME}/.bashrc /workspace/
+    mamba create -n biodivinfo -c conda-forge python=3.9 -y
+    mamba activate biodivinfo
+    cd /workspace/
+    mamba install -c bioconda busco=6.0.0 -y 
+    mamba install -c conda-forge mafft=7.527 -y 
+    mamba install -c conda-forge matplotlib=3.10.5 -y
+    mamba install -c bioconda raxml=8.2.13 -y
+    mamba install -c conda-forge r-ape=5.8_1 -y
+    mamba install -c bioconda treerecs=1.2 -y
+    mamba install -c bioconda trimal=1.5.0 -y
+    mamba install -c bioconda cafe=5.1.0-1 -y
+    echo 'mamba activate biodivinfo' >> ${HOME}/.bashrc
 
-      # Initialize Mamba and update it
-      conda update -n base -c defaults conda -y
-      conda install -n base -c conda-forge mamba -y
+  command: |
+    cp /workspace/.bashrc ${HOME}/
+    source ${HOME}/.bashrc
+    mamba activate biodivinfo
+vscode:
+  extensions:
+    - anwar.papyrus-pdf
 
-      # Initialize the shell for mamba in the same terminal session
-      mamba shell init --shell bash --root-prefix=~/.local/share/mamba
-      source ~/.bashrc
-
-      # Create a new environment with Python 3.8 for compatibility with BUSCO
-      mamba create -n biodivinfo bioconda::busco=6.0.0 -y
-
-      # Activate the environment in the same terminal session
-      source ~/.bashrc
-      mamba activate biodivinfo
+workspaceLocation: "/workspace"
