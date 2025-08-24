@@ -14,7 +14,7 @@ tasks:
     mamba activate biodivinfo
     cd /workspace/
     mamba install -c bioconda busco=6.0.0 -y 
-    mamba install -c conda-forge mafft=7.527 -y 
+    mamba install -c conda-forge mafft=7.526 -y 
     mamba install -c conda-forge matplotlib=3.10.5 -y
     mamba install -c bioconda raxml=8.2.13 -y
     mamba install -c conda-forge r-ape=5.8_1 -y
