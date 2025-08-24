@@ -20,7 +20,7 @@ tasks:
     mamba install -c conda-forge r-ape=5.8_1 -y
     mamba install -c bioconda treerecs=1.2 -y
     mamba install -c bioconda trimal=1.5.0 -y
-    mamba install -c bioconda cafe=5.1.0-1 -y
+    mamba install -c bioconda cafe=5.1.0 -y
     echo 'mamba activate biodivinfo' >> ${HOME}/.bashrc
 
   command: |
