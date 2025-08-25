@@ -1,4 +1,4 @@
-# Converting a molecular species phylogeny into a time-calibrated ultrametric species tree
+# Converting a molecular species phylogeny into a time-calibrated ultrametric species tree 
 # If you do not yet have the package 'ape' you will need to install it: install.packages("ape")
 
 # Load ape package
