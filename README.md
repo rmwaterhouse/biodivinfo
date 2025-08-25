@@ -10,12 +10,12 @@ It aims to:
 - Show how to use BUSCO to assess genomics data quality
 - Show how to formulate comparative genomics questions, develop and apply approaches to address them (with a focus on using orthology data), and then critically interpret them
 
-This course is taught by Robert Waterhouse (SIB).
+This course is taught by Robert Waterhouse (SIB), with the assistance of Giulia Campli (UNIL/SIB).
 
 
 ## Lectures
 
-All the lecture materials are provided here in this [PDF](https://github.com/rmwaterhouse/biodivinfo/blob/main/SIB%20Biodiversity%20Bioinformatics%20DAY2.pdf).
+All the lecture materials will be provided at the end of the day.
 
 ## Practicals
 
