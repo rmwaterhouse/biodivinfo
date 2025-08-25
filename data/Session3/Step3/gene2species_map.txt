@@ -10,7 +10,7 @@
 41895_0_00258d 41895_0_Tribolium_madens
 50390_0_00018d 50390_0_Diabrotica_virgifera
 7048_0_000e5c 7048_0_Sitophilus_oryzae
-7048_0_0001a0 7048_0_Sitophilus_oryzae
+7048_0_003799 7048_0_Sitophilus_oryzae
 7048_0_00379a 7048_0_Sitophilus_oryzae
 7054_0_002187 7054_0_Photinus_pyralis
 7070_0_002e62 7070_0_Tribolium_castaneum
